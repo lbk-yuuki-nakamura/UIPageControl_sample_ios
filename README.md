@@ -1,0 +1,2 @@
+# UIPageControl_sample_ios
+UIPageControlのサンプル
